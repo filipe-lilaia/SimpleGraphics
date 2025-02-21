@@ -1,2 +1,2 @@
-# simpleGraphics
+
 # SimpleGraphics
